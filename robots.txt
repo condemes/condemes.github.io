@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://condemes.github.io/sitemap.html.gz
+Sitemap: https://condemes.github.io/app/sitemap.html.gz
+Sitemap: https://condemes.github.io/assets/sitemap.html.gz
+Sitemap: https://condemes.github.io/css/sitemap.html.gz
+Sitemap: https://condemes.github.io/data/sitemap.html.gz
+Sitemap: https://condemes.github.io/includes/sitemap.html.gz
+Sitemap: https://condemes.github.io/item/sitemap.html.gz
+Sitemap: https://condemes.github.io/src/sitemap.html.gz
